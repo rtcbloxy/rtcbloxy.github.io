@@ -1,6 +1,6 @@
 ## RTC BLOXY
 
-You can visit our twitter profile here! [Click here!](https://twitter.com/RTCBloxy) to maintain and preview the content for your website in Markdown files.
+You can visit our twitter profile here! [Click here!](https://twitter.com/RTCBloxy) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
